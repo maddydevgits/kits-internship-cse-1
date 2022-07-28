@@ -23,7 +23,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   <tr>
     <td>23rd July 2022</td>
     <td>Celebrity Identifier using AWS</td>
-    <td><a href="https://github.com/maddydevgits/celebrity-face-recognition">Repo</td>
+    <td><a href="https://github.com/maddydevgits/kits-internship-cse-1/tree/main/project2">Repo</td>
     <td><a href="https://t.me/+GGiAl2rgRZM4OWJl">For Assistance</td>
   </tr>
   <tr>
